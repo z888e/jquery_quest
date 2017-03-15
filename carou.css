@@ -1,3 +1,7 @@
 body{
 	background-color: yellow;
 }
+
+single-item div{
+    max-width: 600px;
+}
